@@ -33,7 +33,6 @@ El objetivo del proyecto es aplicar conocimientos de **HTML, CSS y JavaScript** 
 - Aplicar responsive design
 - Simular un e-commerce
 - Integrar control de versiones con Git y GitHub
-- Formar parte de mi portfolio **Front End Trainee / Junior**
 
 ---
 
@@ -45,9 +44,4 @@ El objetivo del proyecto es aplicar conocimientos de **HTML, CSS y JavaScript** 
 
 ---
 
-## 👩‍💻 Autora
-**Magdalena Ayude**  
-Front End Trainee / Junior  
-Argentina  
 
-GitHub: https://github.com/MagdalenaAyude
