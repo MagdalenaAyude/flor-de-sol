@@ -119,7 +119,7 @@ const productos = [
     nombre: "Arreglo Mixto",
     precio: 15500,
     descripcion: "Flores amarillas y blancas.",
-    imagen: "./assets/ramodeflores.jpeg",
+    imagen: "./assets/ramoamarillo.jpg",
     disponible: true,
   },
   {
@@ -127,7 +127,7 @@ const productos = [
     nombre: "Centro de Mesa",
     precio: 12000,
     descripcion: "Centro floral natural.",
-    imagen: "./assets/floresvarias.png",
+    imagen: "./assets/centrodemesa.png",
     disponible: true,
   }
 ]
@@ -353,16 +353,3 @@ renderizarCarrito()
   
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-
